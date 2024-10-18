@@ -1,6 +1,0 @@
-Si el verbo termina en /-ais/ y se vuelve /-aih/
--- vosotros estais, vos estai
--- vosotros caminais, vos caminai
-
-Si el verbo termina en /-eis/ y se vuelve /-is/
--- vosotros comeis, vos comis
